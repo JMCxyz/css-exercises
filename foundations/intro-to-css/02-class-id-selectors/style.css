@@ -2,3 +2,8 @@ p.odd {
     font-family: Verdana, 'DejaVu Sans', sans-serif;
     background-color: lightpink;
 }
+
+#two {
+    font-size: 36px;
+    color: blue;
+}
